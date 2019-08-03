@@ -3,4 +3,4 @@
 #Testと表示させたい
 
 word = "Test"
-printf(word)
+print(word)
